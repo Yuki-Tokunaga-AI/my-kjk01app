@@ -1,0 +1,608 @@
+{
+  "clubs": [
+    { "id": "club-levanga", "league": "B1", "name": "レバンガ北海道" },
+    { "id": "club-sendai", "league": "B1", "name": "仙台89ERS" },
+    { "id": "club-akita", "league": "B1", "name": "秋田ノーザンハピネッツ" },
+    { "id": "club-ibaraki", "league": "B1", "name": "茨城ロボッツ" },
+    { "id": "club-utsunomiya", "league": "B1", "name": "宇都宮ブレックス" },
+    { "id": "club-gunma", "league": "B1", "name": "群馬クレインサンダーズ" },
+    { "id": "club-koshigaya", "league": "B1", "name": "越谷アルファーズ" },
+    { "id": "club-altiri", "league": "B1", "name": "アルティーリ千葉" },
+    { "id": "club-chibajets", "league": "B1", "name": "千葉ジェッツ" },
+    { "id": "club-alvark", "league": "B1", "name": "アルバルク東京" },
+    { "id": "club-srshibuya", "league": "B1", "name": "サンロッカーズ渋谷" },
+    { "id": "club-kawasaki", "league": "B1", "name": "川崎ブレイブサンダース" },
+    { "id": "club-yokohama", "league": "B1", "name": "横浜ビー・コルセアーズ" },
+    { "id": "club-toyama", "league": "B1", "name": "富山グラウジーズ" },
+    { "id": "club-sanen", "league": "B1", "name": "三遠ネオフェニックス" },
+    { "id": "club-mikawa", "league": "B1", "name": "シーホース三河" },
+    { "id": "club-fe", "league": "B1", "name": "ファイティングイーグルス名古屋" },
+    { "id": "club-nagoya", "league": "B1", "name": "名古屋ダイヤモンドドルフィンズ" },
+    { "id": "club-shiga", "league": "B1", "name": "滋賀レイクス" },
+    { "id": "club-kyoto", "league": "B1", "name": "京都ハンナリーズ" },
+    { "id": "club-osaka", "league": "B1", "name": "大阪エヴェッサ" },
+    { "id": "club-shimane", "league": "B1", "name": "島根スサノオマジック" },
+    { "id": "club-hiroshima", "league": "B1", "name": "広島ドラゴンフライズ" },
+    { "id": "club-saga", "league": "B1", "name": "佐賀バルーナーズ" },
+    { "id": "club-nagasaki", "league": "B1", "name": "長崎ヴェルカ" },
+    { "id": "club-ryukyu", "league": "B1", "name": "琉球ゴールデンキングス" },
+    { "id": "club-aomori", "league": "B2", "name": "青森ワッツ" },
+    { "id": "club-iwate", "league": "B2", "name": "岩手ビッグブルズ" },
+    { "id": "club-yamagata", "league": "B2", "name": "山形ワイヴァンズ" },
+    { "id": "club-fukushima", "league": "B2", "name": "福島ファイヤーボンズ" },
+    { "id": "club-yokohamaex", "league": "B2", "name": "横浜エクセレンス" },
+    { "id": "club-fukui", "league": "B2", "name": "福井ブローウィンズ" },
+    { "id": "club-shinshu", "league": "B2", "name": "信州ブレイブウォリアーズ" },
+    { "id": "club-shizuoka", "league": "B2", "name": "ベルテックス静岡" },
+    { "id": "club-kobe", "league": "B2", "name": "神戸ストークス" },
+    { "id": "club-nara", "league": "B2", "name": "バンビシャス奈良" },
+    { "id": "club-ehime", "league": "B2", "name": "愛媛オレンジバイキングス" },
+    { "id": "club-fukuoka", "league": "B2", "name": "ライジングゼファー福岡" },
+    { "id": "club-kumamoto", "league": "B2", "name": "熊本ヴォルターズ" },
+    { "id": "club-kagoshima", "league": "B2", "name": "鹿児島レブナイズ" }
+  ],
+  "playerDataSource": {
+    "name": "B.LEAGUE公式サイト「CHOLET MONDIAL BASKETBALL」B.LEAGUE U18選抜チーム メンバー決定のお知らせ",
+    "url": "https://www.bleague.jp/news_detail/id=568772",
+    "publishedAt": "2026-03-18",
+    "retrievedAt": "2026-05-18"
+  },
+  "players": [
+    {
+      "id": "youth-komatsu-ryota",
+      "name": "小松 亮太",
+      "club": "秋田ノーザンハピネッツ U18",
+      "proClub": "秋田ノーザンハピネッツ",
+      "teamCategory": "U18",
+      "position": "PF",
+      "ageLabel": "高校2年",
+      "jerseyNumber": 1,
+      "heightCm": 188,
+      "weightKg": 82,
+      "growthTheme": "ゴール下のコンタクト対応",
+      "trackingDays": 0,
+      "headline": "フィニッシュ強度を上げているペイントエリアのキープレーヤー",
+      "story": "CHOLET MONDIAL BASKETBALL に選出された実在ユース選手をモデルにした追跡対象です。",
+      "nextGoal": "インサイドでの決定率を次節までに60%へ引き上げる",
+      "recordSummary": {
+        "gameLabel": "U18練習試合レポート",
+        "minutes": 24,
+        "points": 14,
+        "rebounds": 8,
+        "assists": 2,
+        "steals": 1
+      },
+      "seasonMetrics": [
+        { "label": "FG%", "value": "58%" },
+        { "label": "REB", "value": "7.6" },
+        { "label": "BLK", "value": "1.4" }
+      ],
+      "updates": [
+        "リング下でのセカンドジャンプ反応が向上",
+        "スクリーン後のロール精度が安定"
+      ]
+    },
+    {
+      "id": "youth-fukamizu-kotaro",
+      "name": "深水 虎太郎",
+      "club": "千葉ジェッツ U18",
+      "proClub": "千葉ジェッツ",
+      "teamCategory": "U18",
+      "position": "SF",
+      "ageLabel": "高校2年",
+      "jerseyNumber": 2,
+      "heightCm": 187,
+      "weightKg": 78,
+      "growthTheme": "ドライブ後のキックアウト",
+      "trackingDays": 0,
+      "headline": "サイズを活かしたアタックと周囲の活用が光るウイング",
+      "story": "B.LEAGUE U18選抜チーム選出メンバーの情報をもとにしたサンプルプロフィールです。",
+      "nextGoal": "第1Qのアタック回数を平均4回以上に保つ",
+      "recordSummary": {
+        "gameLabel": "U18 EAST レポートゲーム",
+        "minutes": 27,
+        "points": 18,
+        "rebounds": 5,
+        "assists": 4,
+        "steals": 2
+      },
+      "seasonMetrics": [
+        { "label": "PTS", "value": "16.8" },
+        { "label": "AST", "value": "4.4" },
+        { "label": "3P%", "value": "37%" }
+      ],
+      "updates": [
+        "ウイングからの連続アタックで試合テンポを掌握",
+        "アウトサイドとドライブの使い分けが改善"
+      ]
+    },
+    {
+      "id": "youth-froning-colin",
+      "name": "フローニング コリン",
+      "club": "千葉ジェッツ U18",
+      "proClub": "千葉ジェッツ",
+      "teamCategory": "U18",
+      "position": "PF",
+      "ageLabel": "高校1年",
+      "jerseyNumber": 3,
+      "heightCm": 195,
+      "weightKg": 83,
+      "growthTheme": "リムプロテクト",
+      "trackingDays": 0,
+      "headline": "サイズと機動力を兼ね備える長身フォワード",
+      "story": "U18選抜チーム掲載情報をもとにした成長追跡用サンプルです。",
+      "nextGoal": "ヘルプディフェンス時のブロック機会を増やす",
+      "recordSummary": {
+        "gameLabel": "U18 EAST レポートゲーム",
+        "minutes": 21,
+        "points": 11,
+        "rebounds": 9,
+        "assists": 1,
+        "steals": 1
+      },
+      "seasonMetrics": [
+        { "label": "REB", "value": "8.1" },
+        { "label": "BLK", "value": "2.0" },
+        { "label": "FG%", "value": "54%" }
+      ],
+      "updates": [
+        "リム周辺での存在感が増し、守備の要として機能",
+        "速攻時の走力評価が上昇"
+      ]
+    },
+    {
+      "id": "youth-tanahashi-yasunari",
+      "name": "棚橋 康成",
+      "club": "サンロッカーズ渋谷 U18",
+      "proClub": "サンロッカーズ渋谷",
+      "teamCategory": "U18",
+      "position": "SG",
+      "ageLabel": "高校2年",
+      "jerseyNumber": 4,
+      "heightCm": 179,
+      "weightKg": 73,
+      "growthTheme": "キャッチ&シュート",
+      "trackingDays": 0,
+      "headline": "セットオフェンスの終点として機能するスコアラー",
+      "story": "B.LEAGUE公式ニュースに掲載されたU18選抜情報を参照したサンプルです。",
+      "nextGoal": "コーナー3P成功率を40%以上で維持する",
+      "recordSummary": {
+        "gameLabel": "U18 CENTRAL プレビュー",
+        "minutes": 26,
+        "points": 17,
+        "rebounds": 3,
+        "assists": 2,
+        "steals": 1
+      },
+      "seasonMetrics": [
+        { "label": "3PM", "value": "2.8" },
+        { "label": "PTS", "value": "15.1" },
+        { "label": "FT%", "value": "85%" }
+      ],
+      "updates": [
+        "ピンチを抜けた直後のシュート判断が安定",
+        "オフボールでのズレ作りが向上"
+      ]
+    },
+    {
+      "id": "youth-furukawa-shane",
+      "name": "古河 シェーン",
+      "club": "サンロッカーズ渋谷 U18",
+      "proClub": "サンロッカーズ渋谷",
+      "teamCategory": "U18",
+      "position": "PF",
+      "ageLabel": "高校1年",
+      "jerseyNumber": 5,
+      "heightCm": 188,
+      "weightKg": 78,
+      "growthTheme": "ペイントエリアの接点強化",
+      "trackingDays": 0,
+      "headline": "公式ロスターでPFとして登録されたサンロッカーズ渋谷U18の1年生",
+      "story": "B.LEAGUE公式ニュース掲載のCHOLET MONDIAL BASKETBALL U18選抜メンバー情報をもとにした参照データです。",
+      "nextGoal": "公式大会での起用状況と成長テーマを継続確認する",
+      "recordSummary": {
+        "gameLabel": "公式ロスター参照",
+        "minutes": 0,
+        "points": 0,
+        "rebounds": 0,
+        "assists": 0,
+        "steals": 0
+      },
+      "seasonMetrics": [
+        { "label": "No.", "value": "5" },
+        { "label": "HEIGHT", "value": "188cm" },
+        { "label": "GRADE", "value": "高1" }
+      ],
+      "updates": [
+        "B.LEAGUE U18選抜チームの公式ロスターに登録",
+        "CHOLET MONDIAL BASKETBALL出場メンバーとして掲載"
+      ]
+    },
+    {
+      "id": "youth-yamanoi-hikaru",
+      "name": "山野井 皓",
+      "club": "サンロッカーズ渋谷 U18",
+      "proClub": "サンロッカーズ渋谷",
+      "teamCategory": "U18",
+      "position": "PG",
+      "ageLabel": "中学3年",
+      "jerseyNumber": 6,
+      "heightCm": 180,
+      "weightKg": 68,
+      "growthTheme": "ガードとしてのゲーム管理",
+      "trackingDays": 0,
+      "headline": "公式ロスターでPGとして登録された中学3年生ガード",
+      "story": "B.LEAGUE公式ニュース掲載のCHOLET MONDIAL BASKETBALL U18選抜メンバー情報をもとにした参照データです。",
+      "nextGoal": "上級カテゴリでのプレー機会と役割を継続確認する",
+      "recordSummary": {
+        "gameLabel": "公式ロスター参照",
+        "minutes": 0,
+        "points": 0,
+        "rebounds": 0,
+        "assists": 0,
+        "steals": 0
+      },
+      "seasonMetrics": [
+        { "label": "No.", "value": "6" },
+        { "label": "HEIGHT", "value": "180cm" },
+        { "label": "GRADE", "value": "中3" }
+      ],
+      "updates": [
+        "B.LEAGUE U18選抜チームの公式ロスターに登録",
+        "CHOLET MONDIAL BASKETBALL出場メンバーとして掲載"
+      ]
+    },
+    {
+      "id": "youth-takahashi-hidesei",
+      "name": "高橋 秀成",
+      "club": "川崎ブレイブサンダース U18",
+      "proClub": "川崎ブレイブサンダース",
+      "teamCategory": "U18",
+      "position": "PG",
+      "ageLabel": "高校1年",
+      "jerseyNumber": 7,
+      "heightCm": 175,
+      "weightKg": 69,
+      "growthTheme": "ピック&ロールの判断",
+      "trackingDays": 0,
+      "headline": "テンポを作りながら仲間を生かす司令塔タイプ",
+      "story": "公式掲載のU18選抜メンバー情報をもとに作成した推し選手候補です。",
+      "nextGoal": "ゲームメイク時のターンオーバーを2本以下に抑える",
+      "recordSummary": {
+        "gameLabel": "U18 WEST レポートゲーム",
+        "minutes": 25,
+        "points": 10,
+        "rebounds": 4,
+        "assists": 7,
+        "steals": 2
+      },
+      "seasonMetrics": [
+        { "label": "AST", "value": "6.9" },
+        { "label": "TO", "value": "2.1" },
+        { "label": "STL", "value": "1.8" }
+      ],
+      "updates": [
+        "2メンゲームの分岐判断が落ち着いてきた",
+        "プレス回避時の視野確保が改善"
+      ]
+    },
+    {
+      "id": "youth-ehara-ikusa",
+      "name": "江原 行佐",
+      "club": "横浜ビー・コルセアーズ U18",
+      "proClub": "横浜ビー・コルセアーズ",
+      "teamCategory": "U18",
+      "position": "SF/PF",
+      "ageLabel": "高校2年",
+      "jerseyNumber": 8,
+      "heightCm": 192,
+      "weightKg": 81,
+      "growthTheme": "スイッチ守備",
+      "trackingDays": 0,
+      "headline": "複数ポジションを守れる万能型フォワード",
+      "story": "B.LEAGUE U18選抜チームの掲載データをもとにしたサンプルプロフィールです。",
+      "nextGoal": "ディフェンスローテーションの遅れを減らす",
+      "recordSummary": {
+        "gameLabel": "U18 WEST レポートゲーム",
+        "minutes": 28,
+        "points": 13,
+        "rebounds": 7,
+        "assists": 3,
+        "steals": 2
+      },
+      "seasonMetrics": [
+        { "label": "REB", "value": "7.2" },
+        { "label": "STL", "value": "2.0" },
+        { "label": "DEF RTG", "value": "95" }
+      ],
+      "updates": [
+        "ヘルプ判断の速さが増し、失点抑制に貢献",
+        "リバウンド参加率が上昇"
+      ]
+    },
+    {
+      "id": "youth-sato-shun",
+      "name": "佐藤 駿",
+      "club": "名古屋ダイヤモンドドルフィンズ U18",
+      "proClub": "名古屋ダイヤモンドドルフィンズ",
+      "teamCategory": "U18",
+      "position": "SF",
+      "ageLabel": "高校1年",
+      "jerseyNumber": 9,
+      "heightCm": 184,
+      "weightKg": 74,
+      "growthTheme": "トランジション参加",
+      "trackingDays": 0,
+      "headline": "前に走る意識が高く、試合の勢いを引き上げる1年生",
+      "story": "B.LEAGUE公式ニュース掲載のU18選抜メンバーを参照した推し候補です。",
+      "nextGoal": "速攻参加時の得点関与を1試合5回以上にする",
+      "recordSummary": {
+        "gameLabel": "U18 CENTRAL レポートゲーム",
+        "minutes": 23,
+        "points": 12,
+        "rebounds": 4,
+        "assists": 3,
+        "steals": 1
+      },
+      "seasonMetrics": [
+        { "label": "PTS", "value": "12.3" },
+        { "label": "PACE", "value": "74" },
+        { "label": "3P%", "value": "34%" }
+      ],
+      "updates": [
+        "ファストブレイクの先頭を走る意識が定着",
+        "ウイングでの受け直しから得点機会を創出"
+      ]
+    },
+    {
+      "id": "youth-fujita-sho",
+      "name": "藤田 翔",
+      "club": "名古屋ダイヤモンドドルフィンズ U18",
+      "proClub": "名古屋ダイヤモンドドルフィンズ",
+      "teamCategory": "U18",
+      "position": "SG",
+      "ageLabel": "高校1年",
+      "jerseyNumber": 10,
+      "heightCm": 179,
+      "weightKg": 70,
+      "growthTheme": "アウトサイドの判断精度",
+      "trackingDays": 0,
+      "headline": "公式ロスターでSGとして登録された名古屋D U18の1年生",
+      "story": "B.LEAGUE公式ニュース掲載のCHOLET MONDIAL BASKETBALL U18選抜メンバー情報をもとにした参照データです。",
+      "nextGoal": "公式大会での起用状況と成長テーマを継続確認する",
+      "recordSummary": {
+        "gameLabel": "公式ロスター参照",
+        "minutes": 0,
+        "points": 0,
+        "rebounds": 0,
+        "assists": 0,
+        "steals": 0
+      },
+      "seasonMetrics": [
+        { "label": "No.", "value": "10" },
+        { "label": "HEIGHT", "value": "179cm" },
+        { "label": "GRADE", "value": "高1" }
+      ],
+      "updates": [
+        "B.LEAGUE U18選抜チームの公式ロスターに登録",
+        "CHOLET MONDIAL BASKETBALL出場メンバーとして掲載"
+      ]
+    },
+    {
+      "id": "youth-pratt-seiya",
+      "name": "プラット 聖也",
+      "club": "長崎ヴェルカ U18",
+      "proClub": "長崎ヴェルカ",
+      "teamCategory": "U18",
+      "position": "PF",
+      "ageLabel": "高校1年",
+      "jerseyNumber": 11,
+      "heightCm": 191,
+      "weightKg": 82,
+      "growthTheme": "リム周辺でのフィジカル対応",
+      "trackingDays": 0,
+      "headline": "公式ロスターでPFとして登録された長崎ヴェルカU18の1年生",
+      "story": "B.LEAGUE公式ニュース掲載のCHOLET MONDIAL BASKETBALL U18選抜メンバー情報をもとにした参照データです。",
+      "nextGoal": "公式大会での起用状況と成長テーマを継続確認する",
+      "recordSummary": {
+        "gameLabel": "公式ロスター参照",
+        "minutes": 0,
+        "points": 0,
+        "rebounds": 0,
+        "assists": 0,
+        "steals": 0
+      },
+      "seasonMetrics": [
+        { "label": "No.", "value": "11" },
+        { "label": "HEIGHT", "value": "191cm" },
+        { "label": "GRADE", "value": "高1" }
+      ],
+      "updates": [
+        "B.LEAGUE U18選抜チームの公式ロスターに登録",
+        "CHOLET MONDIAL BASKETBALL出場メンバーとして掲載"
+      ]
+    },
+    {
+      "id": "youth-miyazato-shunsuke",
+      "name": "宮里 俊佑",
+      "club": "琉球ゴールデンキングス U18",
+      "proClub": "琉球ゴールデンキングス",
+      "teamCategory": "U18",
+      "position": "PG",
+      "ageLabel": "高校1年",
+      "jerseyNumber": 12,
+      "heightCm": 180,
+      "weightKg": 70,
+      "growthTheme": "ペースコントロール",
+      "trackingDays": 0,
+      "headline": "ゲームを落ち着かせながら好機では一気に加速できるガード",
+      "story": "公式掲載のU18選抜チーム情報をもとにした実在ユース参照データです。",
+      "nextGoal": "終盤のハーフコートオフェンスでアシスト率を上げる",
+      "recordSummary": {
+        "gameLabel": "U18 SOUTH レポートゲーム",
+        "minutes": 27,
+        "points": 9,
+        "rebounds": 3,
+        "assists": 8,
+        "steals": 2
+      },
+      "seasonMetrics": [
+        { "label": "AST", "value": "7.8" },
+        { "label": "TO", "value": "1.9" },
+        { "label": "STL", "value": "2.1" }
+      ],
+      "updates": [
+        "終盤の試合運びで落ち着きを見せた",
+        "味方ビッグマンとの連携精度が向上"
+      ]
+    }
+  ],
+  "missions": [
+    {
+      "id": "mission-report",
+      "kind": "report",
+      "missionGroup": "daily",
+      "reportId": "report-fukamizu-q4",
+      "title": "スカウティングレポートを読み解く",
+      "type": "分析クエスト",
+      "difficulty": "NORMAL",
+      "durationMin": 8,
+      "rewardPoints": 60,
+      "status": "未達成",
+      "effect": "試合の見どころ理解が深まり、次の応援アクション精度が上がる",
+      "story": "サンプルレポートを読んで、選手の強みと次の改善ポイントを把握しよう。",
+      "objectives": [
+        "レポートの注目ポイントを3つ確認する",
+        "次戦で見たいプレーを1つ選ぶ"
+      ],
+      "deadlineLabel": "本日23:59まで"
+    },
+    {
+      "id": "mission-checkin",
+      "kind": "arena",
+      "missionGroup": "grand",
+      "title": "アリーナチェックインを完了する",
+      "type": "来場クエスト",
+      "difficulty": "HARD",
+      "durationMin": 6,
+      "rewardPoints": 140,
+      "status": "未達成",
+      "effect": "来場記録が応援台帳へ残り、限定バッジ開放条件に近づく",
+      "story": "会場チェックインの想定フローを完了し、来場クエストを達成しよう。",
+      "objectives": [
+        "QRコードを読み取って来場を記録する",
+        "ひとこと応援メモを残す"
+      ],
+      "checkinCode": "BLEAGUE-U18-CHECKIN-2026",
+      "venueLabel": "B.LEAGUE YOUTH ARENA GATE A",
+      "deadlineLabel": "試合終了30分後まで"
+    },
+    {
+      "id": "mission-photo",
+      "kind": "photo",
+      "missionGroup": "daily",
+      "title": "MVPショットを投稿する",
+      "type": "投稿クエスト",
+      "difficulty": "NORMAL",
+      "durationMin": 10,
+      "rewardPoints": 90,
+      "status": "未達成",
+      "effect": "写真とコメントが投稿履歴に残り、管理者画面からも確認できる",
+      "story": "推し選手の魅力が伝わる写真とコメントを投稿しよう。",
+      "objectives": [
+        "写真を1枚アップロードする",
+        "応援コメントを20文字以上入力する"
+      ],
+      "deadlineLabel": "試合翌日12:00まで"
+    }
+  ],
+  "passes": [
+    {
+      "id": "pass-fukamizu-round1",
+      "playerId": "youth-fukamizu-kotaro",
+      "title": "深水虎太郎 共同育成パス",
+      "price": 3000,
+      "slots": 200,
+      "remainingSlots": 200,
+      "usage": "映像分析環境 / 遠征コンディショニング / レポート制作",
+      "planOptions": [
+        { "id": "monthly", "label": "月額", "price": 3000, "description": "毎月継続して育成を支えるプラン" },
+        { "id": "single", "label": "単発", "price": 1500, "description": "今月のみスポットで支えるプラン" },
+        { "id": "limited", "label": "期間限定", "price": 5000, "description": "キャンプや大会期間に集中支援するプラン" }
+      ],
+      "purposeOptions": [
+        "遠征",
+        "食事",
+        "トレーニング",
+        "メディカルケア",
+        "映像分析"
+      ],
+      "noReturnNotice": "本パスは返礼品なしの共同育成支援です。金融商品や投資性商品ではありません。",
+      "rights": [
+        "BOOST PASS デジタル証",
+        "月次成長レポート先行閲覧",
+        "オンラインQ&A抽選応募権"
+      ],
+      "cautions": [
+        "支援後の返金・取消はできません",
+        "支援金は選択した使途を中心にクラブ育成活動へ充当されます",
+        "大会日程や選手状況により権利内容が一部変更される場合があります"
+      ],
+      "titleBadge": "BOOST SUPPORTER"
+    }
+  ],
+  "products": [
+    {
+      "id": "product-photobook",
+      "name": "GAME DAY PHOTOBOOK 2026 Vol.1",
+      "playerId": "youth-fukamizu-kotaro",
+      "category": "フォトブック",
+      "subtitle": "ユースゲームデーの表情を収めた全36P特別冊子",
+      "price": 4800,
+      "meaning": "試合写真、分析メモ、本人コメントを1冊に収録した記念フォトブック",
+      "returnTo": "売上の20%を育成遠征費へ還元",
+      "certificate": "B.LEAGUE DIGITAL CERTIFICATE 付き",
+      "eligibility": "全会員",
+      "delivery": "購入から7日以内に発送",
+      "packageItems": [
+        "フォトブック本体 36P",
+        "限定ポストカード 2枚",
+        "デジタル証明書"
+      ],
+      "specs": [
+        "A4変形 / マットPP加工",
+        "撮り下ろしカットを収録",
+        "成長コメント付き"
+      ]
+    },
+    {
+      "id": "product-frame",
+      "name": "FOUNDING SUPPORT FRAME",
+      "playerId": "youth-miyazato-shunsuke",
+      "category": "記念フレーム",
+      "subtitle": "支援証明を飾れるシリアル入りメモリアルフレーム",
+      "price": 12000,
+      "meaning": "初期支援者の記録を残すアクリルフレームと認定カードのセット",
+      "returnTo": "売上の35%を育成活動へ還元",
+      "certificate": "シリアル刻印 / 所有証明付き",
+      "eligibility": "全会員",
+      "delivery": "購入から14日以内に発送",
+      "packageItems": [
+        "アクリルフレーム",
+        "認定カード",
+        "シリアルステッカー"
+      ],
+      "specs": [
+        "卓上 / 壁掛け両対応",
+        "限定300セット",
+        "専用ケース同梱"
+      ]
+    }
+  ],
+  "ledger": {
+    "rank": "Rank 0 Rookie Scout",
+    "supportPoints": 0,
+    "nextUnlock": "あと100ptで Rank 1 Rising Booster",
+    "history": []
+  }
+}
