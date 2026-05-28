@@ -2,6 +2,7 @@ import copy
 import hashlib
 import json
 import sqlite3
+import os
 from datetime import datetime
 from http import HTTPStatus
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
@@ -14,8 +15,8 @@ APP_DIR = BASE_DIR / "app"
 DB_PATH = BASE_DIR / "members.db"
 CATALOG_PATH = APP_DIR / "data" / "mock-data.json"
 REPORTS_PATH = APP_DIR / "data" / "sample-reports.json"
-HOST = "127.0.0.1"
-PORT = 8000
+ホスト = "0.0.0.0"
+ポート = int(os.environ.get("PORT", 8000))
 
 ADMIN_ID = "admin-blg-20260428"
 ADMIN_PASSWORD = "BLG-Admin-4287"
