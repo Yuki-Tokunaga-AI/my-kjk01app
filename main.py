@@ -15,9 +15,8 @@ APP_DIR = BASE_DIR / "app"
 DB_PATH = BASE_DIR / "members.db"
 CATALOG_PATH = APP_DIR / "data" / "mock-data.json"
 REPORTS_PATH = APP_DIR / "data" / "sample-reports.json"
-ホスト = "0.0.0.0"
-ポート = int(os.environ.get("PORT", 8000))
-
+HOST = "0.0.0.0"
+PORT = int(os.environ.get("PORT", 8000))
 ADMIN_ID = "admin-blg-20260428"
 ADMIN_PASSWORD = "BLG-Admin-4287"
 MEMBER_LOGIN_EMAIL = "kjktest1@gmail.com"
